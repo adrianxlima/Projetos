@@ -1,0 +1,15 @@
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\bin\Debug\net7.0\dotnetdebbuging.exe
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\bin\Debug\net7.0\dotnetdebbuging.deps.json
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\bin\Debug\net7.0\dotnetdebbuging.runtimeconfig.json
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\bin\Debug\net7.0\dotnetdebbuging.dll
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\bin\Debug\net7.0\dotnetdebbuging.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\dotnetdebbuging.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\dotnetdebbuging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\dotnetdebbuging.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\dotnetdebbuging.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\dotnetdebbuging.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\dotnetdebbuging.dll
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\refint\dotnetdebbuging.dll
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\dotnetdebbuging.pdb
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\dotnetdebbuging.genruntimeconfig.cache
+C:\Users\adria\OneDrive\Área de Trabalho\dotnetdebbuging\obj\Debug\net7.0\ref\dotnetdebbuging.dll
